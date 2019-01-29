@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1526117098 source:c:\users\phan chinh quan\desktop\mygame\src\loadtexture.cpp
+	"LoadTexture.h"
+	<stdexcept>
+	<string>
+	<SDL_image.h>
+
+1526117104 c:\users\phan chinh quan\desktop\mygame\include\loadtexture.h
+	<SDL.h>
+	<string>
+
+1525324316 source:c:\users\phan chinh quan\desktop\mygame\flappybird.cpp
+	<SDL.h>
+	"MyWindow.h"
+
+1525337890 c:\users\phan chinh quan\desktop\mygame\include\mywindow.h
+	<SDL.h>
+	<string>
+	<stdexcept>
+	<SDL_image.h>
+	<stdio.h>
+	"Bird.h"
+	"Display.h"
+
+1525880869 source:c:\users\phan chinh quan\desktop\mygame\src\mywindow.cpp
+	"MyWindow.h"
+
+1526114666 source:c:\users\phan chinh quan\desktop\mygame\src\bird.cpp
+	"Bird.h"
+
+1526113324 c:\users\phan chinh quan\desktop\mygame\include\bird.h
+	<SDL.h>
+	<stdexcept>
+	"LoadTexture.h"
+
+1525278813 c:\users\phan chinh quan\desktop\mygame\include\background.h
+	<SDL.h>
+	"LoadTexture.h"
+	"MyWindow.h"
+
+1524143030 source:c:\users\phan chinh quan\desktop\mygame\src\background.cpp
+	"Background.h"
+
+1526123404 c:\users\phan chinh quan\desktop\mygame\include\display.h
+	<SDL_ttf.h>
+	<SDL.h>
+	"Bird.h"
+	"Background.h"
+	"Tube.h"
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"LoadTexture.h"
+	"Image.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1526135635 source:c:\users\phan chinh quan\desktop\mygame\src\display.cpp
+	"Display.h"
+	"MyWindow.h"
+
+1524185652 c:\users\phan chinh quan\desktop\mygame\include\game.h
+	<SDL.h>
+	"Bird.h"
+	"Background.h"
+	"MyWindow.h"
+
+1526113290 c:\users\phan chinh quan\desktop\mygame\include\tube.h
+	<SDL.h>
+	<vector>
+	<stdexcept>
+	"LoadTexture.h"
+
+1526113296 source:c:\users\phan chinh quan\desktop\mygame\src\tube.cpp
+	"Tube.h"
+
+1524157492 source:c:\users\phan chinh quan\mygame\flappybird.cpp
+	<SDL.h>
+	"MyWindow.h"
+
+1524185761 c:\users\phan chinh quan\mygame\include\mywindow.h
+	<SDL.h>
+	<string>
+	<stdexcept>
+	<SDL_image.h>
+	<stdio.h>
+	"Bird.h"
+	"Display.h"
+
+1524197908 c:\users\phan chinh quan\mygame\include\bird.h
+	<SDL.h>
+	<stdexcept>
+	"LoadTexture.h"
+
+1524186379 c:\users\phan chinh quan\mygame\include\loadtexture.h
+	<SDL.h>
+	<string>
+	"MyWindow.h"
+
+1524215442 c:\users\phan chinh quan\mygame\include\display.h
+	<SDL.h>
+	"Bird.h"
+	"Background.h"
+	"Tube.h"
+	<vector>
+
+1524157372 c:\users\phan chinh quan\mygame\include\background.h
+	<SDL.h>
+	"LoadTexture.h"
+	"MyWindow.h"
+
+1524214397 c:\users\phan chinh quan\mygame\include\tube.h
+	<SDL.h>
+	<vector>
+	"LoadTexture.h"
+
+1524143030 source:c:\users\phan chinh quan\mygame\src\background.cpp
+	"Background.h"
+
+1524205181 source:c:\users\phan chinh quan\mygame\src\bird.cpp
+	"Bird.h"
+
+1524215463 source:c:\users\phan chinh quan\mygame\src\display.cpp
+	"Display.h"
+
+1524157517 source:c:\users\phan chinh quan\mygame\src\loadtexture.cpp
+	"LoadTexture.h"
+	<stdexcept>
+	<string>
+
+1524185784 source:c:\users\phan chinh quan\mygame\src\mywindow.cpp
+	"MyWindow.h"
+
+1524214755 source:c:\users\phan chinh quan\mygame\src\tube.cpp
+	"Tube.h"
+
+1524157492 source:c:\users\phan chinh quan\documents\mygame\flappybird.cpp
+	<SDL.h>
+	"MyWindow.h"
+
+1524185761 c:\users\phan chinh quan\documents\mygame\include\mywindow.h
+	<SDL.h>
+	<string>
+	<stdexcept>
+	<SDL_image.h>
+	<stdio.h>
+	"Bird.h"
+	"Display.h"
+
+1524197908 c:\users\phan chinh quan\documents\mygame\include\bird.h
+	<SDL.h>
+	<stdexcept>
+	"LoadTexture.h"
+
+1524186379 c:\users\phan chinh quan\documents\mygame\include\loadtexture.h
+	<SDL.h>
+	<string>
+	"MyWindow.h"
+
+1524215442 c:\users\phan chinh quan\documents\mygame\include\display.h
+	<SDL.h>
+	"Bird.h"
+	"Background.h"
+	"Tube.h"
+	<vector>
+
+1524157372 c:\users\phan chinh quan\documents\mygame\include\background.h
+	<SDL.h>
+	"LoadTexture.h"
+	"MyWindow.h"
+
+1524214397 c:\users\phan chinh quan\documents\mygame\include\tube.h
+	<SDL.h>
+	<vector>
+	"LoadTexture.h"
+
+1524143030 source:c:\users\phan chinh quan\documents\mygame\src\background.cpp
+	"Background.h"
+
+1524205181 source:c:\users\phan chinh quan\documents\mygame\src\bird.cpp
+	"Bird.h"
+
+1524215463 source:c:\users\phan chinh quan\documents\mygame\src\display.cpp
+	"Display.h"
+
+1524157517 source:c:\users\phan chinh quan\documents\mygame\src\loadtexture.cpp
+	"LoadTexture.h"
+	<stdexcept>
+	<string>
+
+1524185784 source:c:\users\phan chinh quan\documents\mygame\src\mywindow.cpp
+	"MyWindow.h"
+
+1524214755 source:c:\users\phan chinh quan\documents\mygame\src\tube.cpp
+	"Tube.h"
+
+1525323605 c:\users\phan chinh quan\desktop\mygame\include\score.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdexcept>
+
+1525323556 source:c:\users\phan chinh quan\desktop\mygame\src\score.cpp
+	"Score.h"
+
+1526116671 source:c:\users\phan chinh quan\desktop\mygame\src\image.cpp
+	"Image.h"
+
+1526116610 c:\users\phan chinh quan\desktop\mygame\include\image.h
+	<SDL.h>
+	<vector>
+	<stdexcept>
+	"LoadTexture.h"
+
+1525767439 source:c:\users\phan chinh quan\desktop\mygame\src\firstscreen.cpp
+	"FirstScreen.h"
+
+1525767352 c:\users\phan chinh quan\desktop\mygame\include\firstscreen.h
+	<SDL.h>
+	"LoadTexture.h"
+	"Image.h"
+
+1525324316 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\flappybird.cpp
+	<SDL.h>
+	"MyWindow.h"
+
+1525337890 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\mywindow.h
+	<SDL.h>
+	<string>
+	<stdexcept>
+	<SDL_image.h>
+	<stdio.h>
+	"Bird.h"
+	"Display.h"
+
+1526113324 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\bird.h
+	<SDL.h>
+	<stdexcept>
+	"LoadTexture.h"
+
+1526117104 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\loadtexture.h
+	<SDL.h>
+	<string>
+
+1526123404 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\display.h
+	<SDL_ttf.h>
+	<SDL.h>
+	"Bird.h"
+	"Background.h"
+	"Tube.h"
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"LoadTexture.h"
+	"Image.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1525278813 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\background.h
+	<SDL.h>
+	"LoadTexture.h"
+	"MyWindow.h"
+
+1526113290 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\tube.h
+	<SDL.h>
+	<vector>
+	<stdexcept>
+	"LoadTexture.h"
+
+1526116610 c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\include\image.h
+	<SDL.h>
+	<vector>
+	<stdexcept>
+	"LoadTexture.h"
+
+1526114666 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\bird.cpp
+	"Bird.h"
+
+1526135780 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\display.cpp
+	"Display.h"
+	"MyWindow.h"
+
+1526116671 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\image.cpp
+	"Image.h"
+
+1526117098 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\loadtexture.cpp
+	"LoadTexture.h"
+	<stdexcept>
+	<string>
+	<SDL_image.h>
+
+1525880869 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\mywindow.cpp
+	"MyWindow.h"
+
+1526113296 source:c:\users\phan chinh quan\desktop\flappybird - phan chinh quan\src\tube.cpp
+	"Tube.h"
+
